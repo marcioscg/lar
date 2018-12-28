@@ -51,7 +51,9 @@
 					</p><p class="text-center font-weight-bold">TERMO DE ADESÃO AO CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE TELECOMUNICAÇÕES</p>
 				<br>
 				
-					<p class="text-center font-weight-bold">%numerocliente%</p>
+					<p class="col-md-2">
+					<p class="text-center font-weight-bold">%numcliente% - 1/2</p>
+				</p>
 				<br>
 				
 					<p>
@@ -184,9 +186,9 @@
 			</section>
 			<section class="row marca2">
 				<p class="col-md-10 text-center font-weight-bold">
-					CLÁUSULA TERCEIRA - DOS VALORES E FORMAS DE PAGAMENTOS
+					CLÁUSULA TERCEIRA - DOS VALORES E FORMAS DE PAGAMENTOS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight-bold">%numcliente% - 2/2
 				</p>
-				<p class="col-md-2 text-center font-weight-bold">%numerocliente%</p>
+				
 				<p class="text-justify">
 					3.1 	Para ativação e prestação dos serviços contratados, o CONTRATANTE deverá pagar a CONTRATADA o valor na condição descrita a seguir:
 				</p>
