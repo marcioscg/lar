@@ -185,8 +185,9 @@
 					2.4  O CONTRATANTE, definiu e teve acesso no ato da assinatura deste TERMO, ao  plano que irá usufruir, bem como a data de vencimento e valores aplicáveis ao contratado, portanto, alterações de planos somente poderão ser solicitadas a cada período mínimo de 60 dias. Alterações com prazos inferiores podem gerar custos ao cliente, conforme valores vigentes. A solicitação deverá ocorrer com ao menos 10 dias úteis de antecedência junto à nossos canais de atendimento.</p><br><br>
 			</section>
 			<section class="row marca2">
-				<p class="col-md-10 text-center font-weight-bold">
-					CLÁUSULA TERCEIRA - DOS VALORES E FORMAS DE PAGAMENTOS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight-bold">%numcliente% - 2/2
+				<p class="col-md-12 text-center font-weight-bold">
+					CLÁUSULA TERCEIRA - DOS VALORES E FORMAS DE PAGAMENTOS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight:bold;position: absolute;
+    margin-left: 115px;">%numcliente% - 2/2</span>
 				</p>
 				
 				<p class="text-justify">
